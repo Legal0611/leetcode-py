@@ -1,4 +1,4 @@
-# 1. Two Sum 
+# 1. Two Sum
 class Solution:
     def twoSum(self, nums, target):
         nums_null = {}
